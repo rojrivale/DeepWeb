@@ -1,0 +1,21 @@
+a {
+    color: #61dafb;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Estilos adicionales para formularios y botones */
+.btn-link {
+    color: #61dafb;
+}
+
+
+/* Responsive */
+@media (max-width: 576px) {
+    h2 {
+        font-size: 1.4rem;
+    }
+}
